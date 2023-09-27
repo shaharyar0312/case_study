@@ -1,0 +1,13 @@
+{
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "Admin123",
+        "database1": "transformed_layer",
+        "database2": "agg_layer"
+    },
+    "filename": "sales_data.csv",
+    "user_api" : "https://jsonplaceholder.typicode.com/users",
+    "weather_api" : "https://api.openweathermap.org/data/2.5/weather?",
+    "api_key" : "e9109842e59721493228c7f6fb17cc7e"
+}
